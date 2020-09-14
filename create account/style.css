@@ -1,0 +1,70 @@
+body{
+    
+    text-align: center;
+    background-color:black;
+    color: white;
+   
+    
+}
+.form-div_one{
+    font-family: 'Concert One', cursive;
+}
+.form-div_two{
+
+    font-family: 'Lato', sans-serif;
+    text-align: left;
+    margin-left: 10%;
+    margin-top: 50px;
+}
+.text-box{
+    border-bottom: 2px solid white;
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+    margin-bottom: 20px;
+    width: 90%;
+    height: 45px;
+    background-color: transparent;
+    color: #fff;
+    font-size: medium;
+    outline: transparent;
+   
+} 
+.button{
+    margin-top: 40px;
+    border-top: 2px solid white;
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+    border-radius: 5px;
+}
+.form-div_four{
+    float: left;
+    width:30%
+}
+.form-div_five{
+    float: right;
+    width:30%;
+    margin-right:7%;
+}
+
+.form-div_six{
+    clear:left;
+}
+@media only screen
+  and (min-device-width : 768px)
+  and (max-device-width : 1024px)
+   
+{
+    h1{
+        font-size:2.7rem;
+        
+    }
+    .form-div_two{
+        font-size:1.7rem;
+    }
+    body{
+        padding-top: 15%;
+    }
+
+    /* iPad landscape style here */
+}

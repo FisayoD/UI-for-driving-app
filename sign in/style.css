@@ -1,0 +1,64 @@
+body{
+    
+    text-align: center;
+    background-color:black;
+    color: #fff;
+    
+}
+.form-div_one{
+    font-family: 'Concert One', cursive;
+    margin-top: 7%;
+}
+.form-div_two{
+
+    font-family: 'Lato', sans-serif;
+    text-align: left;
+    margin-left: 10%;
+    margin-top: 4%;
+}
+.text-box{
+    border-bottom: 2px solid white;
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+    margin-bottom: 20px;
+    width: 90%;
+    height: 45px;
+    background-color: transparent;
+    color: #fff;
+    font-size: medium;
+    outline: transparent;
+   
+} 
+.button{
+    width:80%;
+    margin-top: 40px;
+    border-top: 2px solid white;
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+    border-radius: 5px;
+}
+#pass{
+    margin-top: 5%;
+}
+a{
+   
+  text-decoration: none;
+    font-family: 'Lato', sans-serif;
+    color: #fff;
+   
+    
+}
+#links{
+    margin-top: 70%;
+}
+.forgot{
+    float:left;
+    margin-left: 10%;
+    
+}
+.sign{
+    float: right;
+    margin-right: 9%;
+    
+}

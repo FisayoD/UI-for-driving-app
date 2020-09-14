@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    text-align: center;
+    background-color:black;
+    color: #fff;
+}
+h1{
+    margin: 0;
+    padding-top: 25px;
+}
+.form-div_one{
+    margin-top: 0;
+    font-family: 'Concert One', cursive;
+    height: 571px;
+    background-image: url(driving.jpg);
+    background-clip: border-box;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+.form-div_two{
+    font-family: 'Lato', sans-serif;
+    height: 241px;
+    margin-bottom: 0;
+}
+.text-box{
+    border-bottom: 2px solid white;
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+    margin-bottom: 20px;
+    width: 60%;
+    height: 45px;
+    background-color: transparent;
+    color: #fff;
+    font-size: medium;
+    outline: transparent;
+} 
+.button{
+    border: 2px solid white;
+    border-radius: 5px;
+}
+a{
+    text-decoration: none;
+    font-family: 'Lato', sans-serif;
+    color: #fff;
+}
+@media only screen
+  and (min-device-width : 768px)
+  and (max-device-width : 1024px)
+   
+{
+    h1{
+        font-size:2.7rem;
+        
+    }
+    p{
+        font-size:1.7rem;
+    }
+    body{
+        padding-top: 30%;
+    }
+
+    /* iPad landscape style here */
+}
+ 

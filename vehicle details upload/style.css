@@ -1,0 +1,45 @@
+
+body{
+    
+    text-align: center;
+    background-color:black;
+    color: white;
+   
+    
+}
+.form-div_one{
+    font-family: 'Concert One', cursive;
+}
+
+.form-div_two{
+    font-family: 'Lato', sans-serif;
+    text-align: left;
+    margin-left: 10%;
+}
+.text-box{
+    border-bottom: 2px solid white;
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+    margin-bottom: 20px;
+    width: 90%;
+    height: 45px;
+    background-color: transparent;
+    color: #fff;
+    font-size: medium;
+    outline: transparent;
+   
+} 
+
+.button{
+    margin-top: 40px;
+    border-top: 2px solid white;
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+}
+p {
+    text-align: center;
+}
+.uploader:nth-child(2) {
+    padding-top: 4%;
+}
